@@ -25,3 +25,15 @@ a.btn-nav {
 p {
   font-size: 14px;
 }
+.hero h2 {
+  font-size: 23px;
+  color: white;
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
+
+.footer p {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
